@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Ứng Dụng Quản Lý sách</string>
+
+    <string name="Hello">Welcome</string>
+    <string name="DangNhap">Đăng nhập</string>
+    <string name="dangKi">Đăng kí</string>
+    <string name="tenDangNhap">Tên đăng nhập</string>
+    <string name="matKhau">Mật khẩu</string>
+    <string name="matKhauXacNhan">Mật khẩu xác nhận</string>
+    <string name="hoVaTen">Họ và tên</string>
+    <string name="soDienThoai">Số điện thoại</string>
+
+
+    <string name="quanLySach">Ứng Dụng Quản lý sách</string>
+    <string name="nguoiDug">Người dùng</string>
+    <string name="theLoai">Thể loại</string>
+    <string name="sach">Sách</string>
+    <string name="hoaDon">Hóa đơn</string>
+    <string name="dangXuat">Đăng xuất</string>
+    <string name="doiMatKhau">Đổi mật khẩu</string>
+    <string name="mkOld">Mật khẩu cũ</string>
+    <string name="mkNew">Mật khẩu mới</string>
+    <string name="nhoMatKhau">Nhớ mật khẩu ?</string>
+
+    <string name="themNguoiDung">Thêm người dùng</string>
+
+    <string name="themLoai">Thêm loại sách</string>
+    <string name="maTheLoai">Mã thể loại</string>
+    <string name="tenLoai">Tên thể loại</string>
+    <string name="viTri">Vị trí</string>
+    <string name="moTa">Mô tả</string>
+
+    <string name="themSach">Thêm sách</string>
+    <string name="maSach">Mã sách</string>
+    <string name="chonLoaiSach">Chọn loại sách</string>
+    <string name="tenSach">Tên sách</string>
+    <string name="tacGia">Tác giả</string>
+    <string name="nhaXuatBan">Nhà xuất bản</string>
+    <string name="giaBia">Giá bìa</string>
+    <string name="soLuong">Số lượng</string>
+
+
+    <string name="hDon">Hóa đơn</string>
+    <string name="tKe">Thống kê</string>
+    <string name="themHoaDon">Thêm hóa đơn</string>
+    <string name="chiTietHoaDon">Chi tiết hóa đơn</string>
+    <string name="thanhTien">Thành tiền</string>
+
+    <string name="maHoaDon">Mã hóa đơn</string>
+    <string name="chonNgay">Chọn thời gian</string>
+    <string name="chiTietNguoiDung">Chi tiết người dùng</string>
+    <string name="chiTietLoaiSach">Chi tiết loại sách</string>
+    <string name="thongTinSach">Thông tin sách</string>
+</resources>

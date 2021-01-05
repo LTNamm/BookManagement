@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="white">#fff</color>
+
+    <color name="colorhint">#2196F3</color>
+    <color name="colorhint2">#CDDC39</color>
+
+    <color name="selecterone">#fff</color>
+    <color name="selectertwo">#009688</color>
+    <color name="selecterthree">#2196F3</color>
+    <color name="selecterfour">#fff</color>
+
+    <color name="selecteronedk">#2196F3</color>
+    <color name="selectertwodk">#fff</color>
+    <color name="selecterthreedk">#fff</color>
+    <color name="selecterfourdk">#2196F3</color>
+
+    <color name="login">#2196F3</color>
+    <color name="red">#ff4545</color>
+    <color name="green">#70d663</color>
+    <color name="more">#a1a1a1</color>
+
+</resources>

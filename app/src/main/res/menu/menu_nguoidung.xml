@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/dangXuat"
+        android:icon="@drawable/ic_dangxuat"
+        android:title="@string/dangXuat"
+        app:showAsAction="never">
+
+    </item>
+    <item
+        android:id="@+id/doiMatKhau"
+        android:icon="@drawable/ic_doimatkhau"
+        android:title="@string/doiMatKhau"
+        app:showAsAction="never">
+
+    </item>
+
+</menu>
